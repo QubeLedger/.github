@@ -1,4 +1,4 @@
-![](banner.png)
+![Quadrate](banner.png)
 ## What is Quadrate?
 Quadrate is the fastest and most secure layer-one blockchain that supports CosmWasm & EVM compatible smart contracts and protocols, and offers fast-finality from Tendermint Core BFT consensus. Quadrate powers decentralized, algorithmic fiat-pegged stablecoins for price-stable global payments system and massive crypto adoption.
 
