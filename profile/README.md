@@ -7,7 +7,8 @@ Quadrate is the fastest and most secure layer-one blockchain that supports CosmW
 
 ## Cosmwasm ecosystem
 * [tesseract](https://github.com/QuadrateOrg/tesseract) - Dev tooling for cosmwasm contracts (fork of osmosis/beaker)
-* [contracts](https://github.com/QuadrateOrg/quadrate-contracts) - Quadrate Chain contracts
+* [converter](https://github.com/QuadrateOrg/quadrate-converter-contracts) - Contract to swap CW20 tokens for ERC20 and vice versa
+* [oracle-querier](https://github.com/QuadrateOrg/quadrate-oracle-querier) - Contract to get the price from x/oracle
 
 ## Explorer
 * [explorer](https://github.com/QuadrateOrg/explorer) - Quadrate Chain Explorer (fork of ping.pub)
