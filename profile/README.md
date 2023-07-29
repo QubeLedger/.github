@@ -1,6 +1,6 @@
 ![Quadrate](https://raw.githubusercontent.com/QuadrateOrg/.github/main/banner.png)
-## What is Quadrate?
-Quadrate is the fastest and most secure layer-one blockchain that supports CosmWasm & EVM compatible smart contracts and protocols, and offers fast-finality from Tendermint Core BFT consensus. Quadrate powers decentralized, algorithmic fiat-pegged stablecoins for price-stable global payments system and massive crypto adoption.
+## What is Qube?
+Qube is an open-source blockchain protocol hosting a vibrant ecosystem of algorithmic, programmable stablecoins and decentralized applications (dApps). Using CometBFT consensus and integrated semi-permissioned CosmWasm for better developer experience, the Qube Ledger sets itself apart as one of the world's fastest blockchains, offering users an unmatched DeFi experience. By embracing a permissionless and borderless economic framework, Qube opens the gateway to next-generation financial products, making them accessible to anyone with an Internet connection.
 
 ## Quadrate Core
 * [core](https://github.com/QuadrateOrg/core) - Quadrate Chain core
@@ -14,13 +14,13 @@ Quadrate is the fastest and most secure layer-one blockchain that supports CosmW
 * [explorer](https://github.com/QuadrateOrg/explorer) - Quadrate Chain Explorer (fork of ping.pub)
 
 ## Links
-### About Quadrate
+### About Qube
 
 - [Quadrate homepage](https://quadrate.org/)
 
 ### Find us on...
 
 - [Linktree](https://linktr.ee/Quadrate)
-- [Twitter](https://twitter.com/QuadrateOrg)
-- [Telegram](https://t.me/QuadrateOrg)
-- [Telegram Announcements](https://t.me/Quadrate_News)
+- [Twitter](https://twitter.com/QubeLedger)
+- [Telegram](https://t.me/QubeLedger)
+
