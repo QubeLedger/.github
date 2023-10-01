@@ -1,4 +1,4 @@
-![Quadrate](https://raw.githubusercontent.com/QubeLedger/.github/main/banner.png)
+![Qube](https://raw.githubusercontent.com/QubeLedger/.github/main/banner.png)
 ## What is Qube?
 Qube is an open-source blockchain protocol hosting a vibrant ecosystem of algorithmic, programmable stablecoins and decentralized applications (dApps). Using CometBFT consensus and integrated semi-permissioned CosmWasm for better developer experience, the Qube Ledger sets itself apart as one of the world's fastest blockchains, offering users an unmatched DeFi experience. By embracing a permissionless and borderless economic framework, Qube opens the gateway to next-generation financial products, making them accessible to anyone with an Internet connection.
 
@@ -11,12 +11,12 @@ Qube is an open-source blockchain protocol hosting a vibrant ecosystem of algori
 * [oracle-querier](https://github.com/QubeLedger/quadrate-oracle-querier) - Contract to get the price from x/oracle
 
 ## Explorer
-* [explorer](https://github.com/QubeLedger/explorer) - Quadrate Chain Explorer (fork of ping.pub)
+* [explorer](https://github.com/QubeLedger/explorer) - Qube Chain Explorer (fork of ping.pub)
 
 ## Links
 ### About Qube
 
-- [Quadrate homepage](https://qubedao.com/)
+- [Qube Homepage](https://qubedao.com/)
 
 ### Find us on...
 
