@@ -6,7 +6,7 @@ Qube is an open-source blockchain protocol hosting a vibrant ecosystem of algori
 * [core](https://github.com/QubeLedger/core) - Qube Chain core
 
 ## Frontend
-* [minter](https://github.com/minter-frontend) - Minter Frontend
+* [minter](https://github.com/QubeLedger/minter-frontend) - Minter Frontend
 
 ## Cosmwasm ecosystem
 * [tesseract](https://github.com/QubeLedger/tesseract) - Dev tooling for cosmwasm contracts (fork of osmosis/beaker)
